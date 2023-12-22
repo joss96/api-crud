@@ -1,4 +1,4 @@
-package com.api.crud.config;
+package com.api.crud.controller;
 
 import java.util.List;
 
